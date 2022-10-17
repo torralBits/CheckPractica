@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CheckPractica</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="introduceName">Nombre: </string>
+    <string name="name">Escribe tu nombre </string>
+    <string name="sexo">Sexo: </string>
+    <string name="H">HOMBRE</string>
+    <string name="M">MUJER</string>
+    <string name="edad">Edad: </string>
+    <string name="solonum">Escribe tu edad </string>
+    <string-array name="deportes"></string-array>
+        <item name="deporte" type="string">Deportes: </item>
+        <item name="football" type="string">Futbol</item>
+        <item name="basket" type="string">Baloncesto</item>
+        <item name="tenis" type="string">Tenis</item>
+        <item name="surf" type="string">Surf</item>
+        <item name="bike" type="string">Ciclismo</item>
+        <item name="boxing" type="string">Boxeo</item>
+
+    <string name="depTotal">Practica de deportes: </string>
+</resources>
